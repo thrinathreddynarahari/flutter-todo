@@ -17,9 +17,9 @@ This todo application have features to add new TODOs and strike off the done TOD
 
 
 ### **4. Delete your TODOs**
-You can slide the item to delet
+You can slide the item to delete
 ![This is an image](https://raw.githubusercontent.com/thrinathreddynarahari/flutter-todo/refs/heads/main/todo4.png)
 
 
-e
-
+### **5. Navigation for home and settings page**
+![This is an image](https://raw.githubusercontent.com/thrinathreddynarahari/flutter-todo/refs/heads/main/todo5.png)
